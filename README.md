@@ -1,0 +1,1 @@
+# vav-module-html-magazine
